@@ -15,6 +15,8 @@
   <a href="https://github.com/Satake0609/MagnetFriends/releases/latest"><b>▶ α版をダウンロード（Releases）</b></a>
 </p>
 
+<p align="center"><sub>📅 開発状況：α版公開中（TGS2026 出展ビルド）</sub></p>
+
 <!-- ここにプレイ動画のGIFやスクリーンショットを1枚入れると、一気に伝わりやすくなります -->
 <!-- 例：<p align="center"><img src="docs/screenshot.png" width="720"></p> -->
 
